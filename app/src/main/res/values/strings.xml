@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ViewAnimatorTest</string>
+    <string name="txtName">Name</string>
+    <string name="txtMessage">Message</string>
+    <string name="btnNext">Next</string>
+    <string name="btnPrevious">Previous</string>
+
+    <string name="strError">Write a message please!</string>
+    <string name="strSend">Your message has been send</string>
 </resources>
